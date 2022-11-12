@@ -1,6 +1,6 @@
 # Google IT Automation with Python PROFESSIONAL CERTIFICATE Offered by Google on Coursera
 <br>
-![img](google-it-automation.jpg)
+![img](img-google-it-automation.jpg)
 
 ## About PROFESSIONAL CERTIFICATE
 The 6 courses certificate, developed by Google, is designed to provide IT professionals with in-demand skills. including Python, Git, and IT automation that can help you advance your career.
